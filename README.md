@@ -1,2 +1,4 @@
 # e1turin.github.io
-github pages repo
+repository of github pages
+
+Для абитуриентов ИМТО ФПИиКТ: https://e1turin.github.io/itmo-abit/
